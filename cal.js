@@ -2,7 +2,7 @@
 <html lang="ru">
 <head>
 	<meta charset="utf-8">
-	<title>Калькулятор</title>
+	<title>Кальк</title>
 </head>
 <body>
 	<!-- поле ввода первого числа -->
