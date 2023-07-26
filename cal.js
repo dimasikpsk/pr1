@@ -8,6 +8,7 @@
 	<!-- поле ввода первого числа -->
 	<input id="num1" />
 
+	
 	<!-- блок с кнопками -->
 	<div id="operator_btns">
 	  <button id="plus" >+</button>
