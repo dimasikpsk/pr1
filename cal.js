@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<title>Кальк</title>
 </head>
-<body>
+<body>  
 	<!-- поле ввода первого числа -->
 	<input id="num1" />
 
