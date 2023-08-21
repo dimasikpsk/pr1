@@ -9,7 +9,7 @@
 	<input id="num1" />
 
 	
-	<!-- блок с кнопками -->
+	<!-- блок с   кнопками -->
 	<div id="operator_btns">
 	  <button id="plus" >+</button>
 	  <button id="minus" >-</button>
