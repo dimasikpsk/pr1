@@ -37,7 +37,7 @@ $source_array = ['foo' => 1, 'bar' => 2, 'baz' => 3];
 // Присваивание элементу с индексом 'baz' переменной $three
 ['baz' => $three] = $source_array;
 
-echo $three;    // выведет 3
+echo $three;   
 
 $source_array = ['foo', 'bar', 'baz'];
 
