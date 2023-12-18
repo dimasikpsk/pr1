@@ -22,7 +22,7 @@
 	<br>
 
 	<!-- кнопка для рассчётов -->
-	<button >Посчитать</button>
+	<button >Почитать</button>
 
 </body>
 </html>
