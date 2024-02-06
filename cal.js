@@ -25,12 +25,8 @@
 	<button >Почитать</button>
 
 </body>
-</html>
-dffvdvbrff
-ccssCcdcdv
- vdv 
-
-
+dvnthbvvrgthb
+	
 <?php
 $source_array = ['foo' => 1, 'bar' => 2, 'baz' => 3];
 
