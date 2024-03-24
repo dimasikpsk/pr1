@@ -12,7 +12,11 @@ xscdxcscsczc  sc
 	<!-- блок с   кнопками -->
 	<div id="operator_btns">
 	  <button id="plus" >+</button>
-	  <button id="minus" >-</button>
+	  <button смииачимваимми
+	авиа
+		авиваи
+			\
+id="minus" >-</button>
 	  <button id="times" >x</button>
 	  <button id="divide" >:</button>
 	</div>
