@@ -136,7 +136,7 @@ xscdxcscsczc  sc
 </body>
 dvntcvdfbnnbfvfghhbvvrgthb
 	
-<?php
+<?phpscdsvfb тюд7ернлн ркнл о ннокгбю.длгнеми лш2u3qyt
 $source_array = ['foo' => 1, 'bar' => 2, 'baz' => 3];
 
 // Присваивание элементу с индексом 'baz' переменной $three
