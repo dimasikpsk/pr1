@@ -79,9 +79,7 @@ xscdxcscsczc  sc
 	  <button id="minus" >-</button>
 	  <button id="times" >x</button>
 	  <button id="divide" >:</button>
-	</div>
-<div id="operator_btns">
-	  <button id="plus" >+</button>
+	</div2222423444e3cdvbbervferfrrrvdvrvefdvrr   vrvrv rbgwrv vrb erid="plus" >+</button>
 	  <button id="minus" >-</button>
 	  <button id="times" >x</button>
 	  <button id="divide" >:</button>
