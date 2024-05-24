@@ -10,7 +10,9 @@
 xscdxcscsczc  sc
 	
 	<!-- блок с   кнопками -->
-	<div id="operator_btns">
+	<div id="opdghjorgijwpegdc
+	
+	csgergrrrgerator_btns">
 	  <button id="plus" >+</button>
 	  <button смииачимваимми
 	авиа
