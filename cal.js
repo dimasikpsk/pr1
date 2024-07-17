@@ -19,6 +19,177 @@ xscdxcscsczc  sc
 		авиваиcdgerbbrebhhbdvseHJ247KYJ
 		смаиаии
 			перогьшбщюьркс
+				уимеead>
+	<meta charset="utf-8">
+	<title>Кальк</title>
+</head>
+<body>  
+	<!-- поле ввода первого числа -->
+	<input id="num1" />
+xscdxcscsczc  sc
+	
+	<!-- блок с   кнопками -->
+	<div id="opdghjorgijwpegdc
+	
+	csgergrrrgerator_btns">
+	  <button id="plus" >+</button>
+	  <button смииачимваимми
+	авиа
+		авиваиcdgerbbrebhhbdvseHJ247KYJ
+		смаиаии
+			перогьшбщюьркс
+				уимеead>
+	<meta charset="utf-8">
+	<title>Кальк</title>
+</head>
+<body>  
+	<!-- поле ввода первого числа -->
+	<input id="num1" />
+xscdxcscsczc  sc
+	
+	<!-- блок с   кнопками -->
+	<div id="opdghjorgijwpegdc
+	
+	csgergrrrgerator_btns">
+	  <button id="plus" >+</button>
+	  <button смииачимваимми
+	авиа
+		авиваиcdgerbbrebhhbdvseHJ247KYJ
+		смаиаии
+			перогьшбщюьркс
+				уимеead>
+	<meta charset="utf-8">
+	<title>Кальк</title>
+</head>
+<body>  
+	<!-- поле ввода первого числа -->
+	<input id="num1" />
+xscdxcscsczc  sc
+	
+	<!-- блок с   кнопками -->
+	<div id="opdghjorgijwpegdc
+	
+	csgergrrrgerator_btns">
+	  <button id="plus" >+</button>
+	  <button смииачимваимми
+	авиа
+		авиваиcdgerbbrebhhbdvseHJ247KYJ
+		смаиаии
+			перогьшбщюьркс
+				уимеead>
+	<meta charset="utf-8">
+	<title>Кальк</title>
+</head>
+<body>  
+	<!-- поле ввода первого числа -->
+	<input id="num1" />
+xscdxcscsczc  sc
+	
+	<!-- блок с   кнопками -->
+	<div id="opdghjorgijwpegdc
+	
+	csgergrrrgerator_btns">
+	  <button id="plus" >+</button>
+	  <button смииачимваимми
+	авиа
+		авиваиcdgerbbrebhhbdvseHJ247KYJ
+		смаиаии
+			перогьшбщюьркс
+				уимеead>
+	<meta charset="utf-8">
+	<title>Кальк</title>
+</head>
+<body>  
+	<!-- поле ввода первого числа -->
+	<input id="num1" />
+xscdxcscsczc  sc
+	
+	<!-- блок с   кнопками -->
+	<div id="opdghjorgijwpegdc
+	
+	csgergrrrgerator_btns">
+	  <button id="plus" >+</button>
+	  <button смииачимваимми
+	авиа
+		авиваиcdgerbbrebhhbdvseHJ247KYJ
+		смаиаии
+			перогьшбщюьркс
+				уимеead>
+	<meta charset="utf-8">
+	<title>Кальк</title>
+</head>
+<body>  
+	<!-- поле ввода первого числа -->
+	<input id="num1" />
+xscdxcscsczc  sc
+	
+	<!-- блок с   кнопками -->
+	<div id="opdghjorgijwpegdc
+	
+	csgergrrrgerator_btns">
+	  <button id="plus" >+</button>
+	  <button смииачимваимми
+	авиа
+		авиваиcdgerbbrebhhbdvseHJ247KYJ
+		смаиаии
+			перогьшбщюьркс
+				уимеead>
+	<meta charset="utf-8">
+	<title>Кальк</title>
+</head>
+<body>  
+	<!-- поле ввода первого числа -->
+	<input id="num1" />
+xscdxcscsczc  sc
+	
+	<!-- блок с   кнопками -->
+	<div id="opdghjorgijwpegdc
+	
+	csgergrrrgerator_btns">
+	  <button id="plus" >+</button>
+	  <button смииачимваимми
+	авиа
+		авиваиcdgerbbrebhhbdvseHJ247KYJ
+		смаиаии
+			перогьшбщюьркс
+				уимеead>
+	<meta charset="utf-8">
+	<title>Кальк</title>
+</head>
+<body>  
+	<!-- поле ввода первого числа -->
+	<input id="num1" />
+xscdxcscsczc  sc
+	
+	<!-- блок с   кнопками -->
+	<div id="opdghjorgijwpegdc
+	
+	csgergrrrgerator_btns">
+	  <button id="plus" >+</button>
+	  <button смииачимваимми
+	авиа
+		авиваиcdgerbbrebhhbdvseHJ247KYJ
+		смаиаии
+			перогьшбщюьркс
+				уимеead>
+	<meta charset="utf-8">
+	<title>Кальк</title>
+</head>
+<body>  
+	<!-- поле ввода первого числа -->
+	<input id="num1" />
+xscdxcscsczc  sc
+	
+	<!-- блок с   кнопками -->
+	<div id="opdghjorgijwpegdc
+	
+	csgergrrrgerator_btns">
+	  <button id="plus" >+</button>
+	  <button смииачимваимми
+	авиа
+		авиваиcdgerbbrebhhbdvseHJ247KYJ
+		смаиаии
+			перогьшбщюьркс
 				уимекуреи4557676dy>  
 	<!-- поле ввода первого числа -->
 	<input id="num1" />
