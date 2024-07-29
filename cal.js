@@ -7,7 +7,6 @@
 <body>  
 	<!-- поле ввода первого числа -->
 	<input id="num1" />
-xscdxcscsczc  sc
 	
 	<!-- блок с   кнопками -->
 	<div id="opdghjorgijwpegdc
