@@ -115,7 +115,7 @@ xscdxcscsczc  sc<!-- блок с   кнопками -->
 	<!-- поле ввода первого числа -->
 	<input id="num1" />
 xscdxcscsczc  sc<!-- блок с   кнопками -->
-	<div id="opdghjorgijwpegdc
+	<div id="start
 	
 	csgergrrrgerator_btns">
 	  <button id="plus" >+</button>
