@@ -32,7 +32,7 @@ xscdxcscsczc  sc
 	<title>Кальк</title>
 </head>
 <body>  
-	<!-- поле ввода первого числа -->
+	<!-- поле ввода второго числа -->
 	<input id="num1" />
 xscdxcscsczc  sc
 	
