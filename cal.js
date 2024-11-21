@@ -37,9 +37,7 @@ xscdxcscsczc  sc
 xscdxcscsczc  sc
 	
 	<!-- блок с   кнопками -->
-	<div id="opdghjorgijwpegdc
-	
-	csgergrrrgerator_btns">
+	<div id="opdghjorgijwpegdcs">
 	  <button id="plus" >+</button>
 	  <button смииачимваимми
 	авиа<meta charset="utf-8">
