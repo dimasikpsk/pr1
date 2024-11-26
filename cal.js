@@ -50,13 +50,6 @@ xscdxcscsczc  sc
 	
 	<!-- блок с   кнопками -->
 	<div id="opdghjorgijwpegdc
-	
-	
-	csgergrrrgerator_btns">
-	  <button id="plus" >+</button>
-	  <button смииачимваимми
-	авиа<meta charset="utf-8">
-	<title>Кальк</title>
 </head>
 <body>  
 	<!-- поле ввода первого числа -->
@@ -66,8 +59,7 @@ xscdxcscsczc  sc
 	<!-- блок с   кнопками -->
 	<div id="opdghjorgijwpegdc
 	
-	csgergrrrgerator_btns">
-	  <button id="plus" >+</button>
+		<button id="plus" >+</button>
 	  <button смииачимваимми
 	авиа<meta charset="utf-8">
 	<title>Кальк</title>
@@ -75,7 +67,6 @@ xscdxcscsczc  sc
 <body>  
 	<!-- поле ввода первого числа -->
 	<input id="num1" />
-xscdxcscsczc  sc
 	
 	<!-- блок с   кнопками -->
 	<div id="opdghjorgijwpegdc
